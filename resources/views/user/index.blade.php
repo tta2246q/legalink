@@ -47,6 +47,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="">SHOP</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/gallery">GALLERY</a>
+                    </li>
             </div>
             <div>
                 <a href=""><button class="free-consulation"> FREE CONSULTATION </button></a>
@@ -273,6 +276,7 @@
                 <h1>Our Lawyer Team</h1>
             </div>
             <div class="col-6 text-center">
+                
                 <a class="link1" href="http://127.0.0.1:8000/team">VIEW THE TEAM <i class="fa-solid fa-arrow-right"></i></a>
             </div>
         </div>

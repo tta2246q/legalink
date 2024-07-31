@@ -21,3 +21,4 @@ Route::get('/patricia', [homeController::class, 'patricia'])->name('patricia');
 Route::get('/contact', [homeController::class, 'contact'])->name('contact');
 Route::get('/error', [homeController::class, 'error'])->name('error');
 Route::get('/gallery', [homeController::class, 'gallery'])->name('gallery');
+Route::get('/price', [homeController::class, 'price'])->name('price');

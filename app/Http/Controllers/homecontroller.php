@@ -36,4 +36,7 @@ class homecontroller extends Controller
       public function gallery(){
         return view('user.gallery');
       }
+      public function price(){
+        return view('user.price');
+      }
 }

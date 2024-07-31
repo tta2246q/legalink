@@ -45,6 +45,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="">SHOP</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://127.0.0.1:8000/gallery">GALLERY</a>
+                    </li>
             </div>
             <div>
                 <a href=""><button class="free-consulation"> FREE CONSULTATION </button></a>

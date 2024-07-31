@@ -499,5 +499,56 @@
 .head-gallery{
     text-align: center;
     margin-top: 70px;
-    margin-bottom: 40px;
+    margin-bottom: 90px;
+}
+.img-with-space{
+    height: 390px;
+    margin-left: 40px;
+}
+.img-without-space{
+    height: 437px;
+    margin-top: 100px;
+}
+.without-space{
+    margin-top: 100px;
+    margin-bottom:100px;
+}
+.Horizontal.Scrolling{
+    margin-top: 100px;
+}
+.scrollball{
+    max-height: 600px;
+    border: 1px solid black;
+    display: flex;
+    overflow-x: auto;
+    margin-top: 100px;
+    margin-bottom:100px;
+}
+.img-horizontal::-webkit-scrollbar{
+    width: 600px;
+}
+.img-horizontal{
+    min-width: 650px;
+    height: 500px;
+    line-height: 6000px;
+    text-align: center;
+    background-color: aliceblue;
+
+}
+.Gallery-Plain-Carousel{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom:100px;
+    height: 800px;
+    background-color: azure;
+
+}
+.Gallery-Vertical{
+    margin-top: 100px;
+    text-align: center;
+}
+.img-gallery-vertical{
+    height: 593px;
+    width: 892px;
+    margin-top: 30px;
 }
