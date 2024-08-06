@@ -39,4 +39,5 @@ class homecontroller extends Controller
       public function price(){
         return view('user.price');
       }
+      
 }
