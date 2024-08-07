@@ -21,7 +21,7 @@
             </div>
         </div>
     </div>
-    <div class="col-12 pt-5 pb-5 " style="background-color: white">
+    <div class="col-12 pt-5 pb-5">
         <div class="container">
             <div class="row">
                 <div class="col-sm-4 col-12 pb-5 winning-award-law-firm">
@@ -32,7 +32,7 @@
                         <h5 style="font-size:20px">WINNING AWARD LAW FIRM</h5>
                     </div>
                     <div class="row-2">
-                        <P style="font-size:17px">Lawyers and attorneys act as both legal advisors<br> and advocates,
+                        <P >Lawyers and attorneys act as both legal advisors<br> and advocates,
                             guilding individuals and
                             businesses<br>through intricate legal processes </P>
                         <a class="link1" href="">Learn more <i class="fa-solid fa-arrow-right"></i></a>
@@ -48,7 +48,7 @@
                         <h5 style="font-size:20px">CONFIDENTIAL</h5>
                     </div>
                     <div class="row-2">
-                        <P style="font-size:17px">Your informationis held in strict confidence with <br> us. We
+                        <P >Your informationis held in strict confidence with <br> us. We
                             prioritize
                             safeguarding your
                             sensitive data.<br> Rest assured, your case details remain private</P>
@@ -63,7 +63,7 @@
                         <h5 style="font-size:20px">LEGAL PROTECTION</h5>
                     </div>
                     <div class="row-2">
-                        <P style="font-size:17px">We provide robust legal protection for our clients.<br> Your rights
+                        <P >We provide robust legal protection for our clients.<br> Your rights
                             and
                             interests are our top
                             priority. Rest<br> assured for safeguarding your legal right </P>
@@ -198,7 +198,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <hr class="hr-team" />
+                    <hr class="hr" />
                     <h5 style="color: gray">TEAM</h5>
                     <h1>Our Lawyer Team</h1>
                 </div>
@@ -628,91 +628,59 @@
     <div >
         <div id="slider4" class="owl-carousel owl-theme">
             <div class="owl-item mt-5 body-our-blog">
-                <a href=""><h5>What To Do When Your Ex Won’t Pay Child Support</h5></a>
+                <a class="link" href=""><h5>New Theft Law in Ohio Will Impact Public Pensions</h5></a>
                 <div class="pt-3 time-and-name">
-                    <a href=""><p>February 26, 2019</p></a>
-                    <a href=""><p>John Smith</p></a>
+                    <a class="link" href=""><p>February 28, 2019</p></a>
+                    <a class="link" href=""><p>John Smith</p></a>
                 </div>
             </div>
-            <div class="owl-item">
-                <img class="img-case-studoes"
-                    src=" https://th.bing.com/th/id/OIP.MELAB1Pd8aFPIfZmXK5ckQHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7"
-                    alt="">
-                <div class="text-case-studies">
-                    <h5> NIGHMARE ON WALL STREET</h5>
-                    <P>financial</P>
+            <div class="owl-item mt-5 body-our-blog">
+                <a class="link" href=""><h5>Do I Need to Change My Business Name if Someone Has It?</h5></a>
+                <div class="pt-3 time-and-name">
+                    <a class="link" href=""><p>February 26, 2019</p></a>
+                    <a class="link" href=""><p>John Smith</p></a>
                 </div>
             </div>
-            <div class="owl-item">
-                <img class="img-case-studoes"
-                    src=" https://th.bing.com/th/id/OIP.MELAB1Pd8aFPIfZmXK5ckQHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7"
-                    alt="">
-                <div class="text-case-studies">
-                    <h5> Public company Fraud</h5>
-                    <P>financial</P>
+            <div class="owl-item mt-5 body-our-blog">
+                <a class="link" href=""><h5>Unmarried Parents in California – Child Custody Issues</h5></a>
+                <div class="pt-3 time-and-name">
+                    <a class="link" href=""><p>February 26, 2019</p></a>
+                    <a class="link" href=""><p>John Smith</p></a>
                 </div>
             </div>
-            <div class="owl-item">
-                <img class="img-case-studoes"
-                    src=" https://th.bing.com/th/id/OIP.MELAB1Pd8aFPIfZmXK5ckQHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7"
-                    alt="">
-                <div class="text-case-studies">
-                    <h5> PRAVICY MATTER</h5>
-                    <P>financial</P>
+            <div class="owl-item mt-5 body-our-blog">
+                <a class="link" href=""><h5>How Is Mediation Useful in Family Law Cases?</h5></a>
+                <div class="pt-3 time-and-name">
+                    <a class="link" href=""><p>February 26, 2019</p></a>
+                    <a class="link" href=""><p>John Smith</p></a>
                 </div>
             </div>
-            <div class="owl-item">
-                <img class="img-case-studoes"
-                    src=" https://th.bing.com/th/id/OIP.MELAB1Pd8aFPIfZmXK5ckQHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7"
-                    alt="">
-                <div class="text-case-studies">
-                    <h5> PRAVICY MATTER</h5>
-                    <P>financial</P>
+            <div class="owl-item mt-5 body-our-blog">
+                <a class="link" href=""><h5>Doctor’s Failure to Diagnose a Medical Condition</h5></a>
+                <div class="pt-3 time-and-name">
+                    <a class="link" href=""><p>February 26, 2019</p></a>
+                    <a class="link" href=""><p>John Smith</p></a>
                 </div>
             </div>
-            <div class="owl-item">
-                <img class="img-case-studoes"
-                    src=" https://th.bing.com/th/id/OIP.MELAB1Pd8aFPIfZmXK5ckQHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7"
-                    alt="">
-                <div class="text-case-studies">
-                    <h5> PRAVICY MATTER</h5>
-                    <P>financial</P>
+            <div class="owl-item mt-5 body-our-blog">
+                <a class="link" href=""><h5>Day Care Responsibility to Protect Children</h5></a>
+                <div class="pt-3 time-and-name">
+                    <a class="link" href=""><p>February 26, 2019</p></a>
+                    <a class="link" href=""><p>John Smith</p></a>
                 </div>
             </div>
-            <div class="owl-item">
-                <img class="img-case-studoes"
-                    src=" https://th.bing.com/th/id/OIP.MELAB1Pd8aFPIfZmXK5ckQHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7"
-                    alt="">
-                <div class="text-case-studies">
-                    <h5> PRAVICY MATTER</h5>
-                    <P>financial</P>
+            <div class="owl-item mt-5 body-our-blog">
+                <a class="link" href=""><h5>Filing a Claim against a Cruise Ship Contractual Limitations</h5></a>
+                <div class="pt-3 time-and-name">
+                    <a class="link" href=""><p>February 26, 2019</p></a>
+                    <a class="link" href=""><p>John Smith</p></a>
                 </div>
             </div>
-            <div class="owl-item">
-                <img class="img-case-studoes"
-                    src=" https://th.bing.com/th/id/OIP.MELAB1Pd8aFPIfZmXK5ckQHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7"
-                    alt="">
-                <div class="text-case-studies">
-                    <h5> PRAVICY MATTER</h5>
-                    <P>financial</P>
-                </div>
-            </div>
-            <div class="owl-item">
-                <img class="img-case-studoes"
-                    src=" https://th.bing.com/th/id/OIP.MELAB1Pd8aFPIfZmXK5ckQHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7"
-                    alt="">
-                <div class="text-case-studies">
-                    <h5> PRAVICY MATTER</h5>
-                    <P>financial</P>
-                </div>
-            </div>
-            <div class="owl-item">
-                <img class="img-case-studoes"
-                    src=" https://th.bing.com/th/id/OIP.MELAB1Pd8aFPIfZmXK5ckQHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7"
-                    alt="">
-                <div class="text-case-studies">
-                    <h5> PRAVICY MATTER</h5>
-                    <P>financial</P>
+            <div class="owl-item mt-5 body-our-blog">
+                <a class="link" href=""><h5>Domestic Violence in California – How a Lawyer Can Help</h5></a>
+                <div class="pt-3 time-and-name">
+                    <a class="link" href=""><p>February 26, 2019</p></a>
+                    <a class="link" href=""><p>John Smith</p></a>
                 </div>
             </div>
         </div>
