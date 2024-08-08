@@ -158,7 +158,7 @@
     height: 450px;
     width: 400px;
     position: absolute;
-
+    border-radius: 10px;
 }
 
 .images2 {
@@ -166,6 +166,7 @@
     width: 200px;
     position: absolute;
     top: 250px;
+    border-radius: 5px;
 }
 
 .img3 {
@@ -175,7 +176,8 @@
     margin-right: auto;
     position: absolute;
     top: 10px;
-
+    right: -20px;
+    border-radius: 5px;
 
 }
 
@@ -211,9 +213,10 @@
 }
 
 .img-case-studoes {
-    height: 300px;
+    height: 303px;
     border-radius: 5px;
     transition: box-shadow 0.3s ease;
+    width: 280px;
 }
 
 .img-case-studoes:hover {
@@ -222,6 +225,7 @@
 
 .icon {
     color: rgb(0, 0, 0);
+    padding-right: 5px;
 }
 
 .icon:hover {
@@ -229,7 +233,7 @@
 }
 
 #slider2 {
-    background-color: white;
+    background-color: transparent;
     padding: 30px;
 }
 
@@ -303,10 +307,12 @@
 
 .box-text {
     width: 270px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.2);
 }
 .box-text-num2{
     width: 270px;
     margin-left: 20px;
+    box-shadow: 0 1px 1px rgba(247, 195, 195, 0.2);
 }
 
 .body-case-studies{
@@ -321,7 +327,8 @@
 
 .but-contact{
     background-color: #e9d281;
-
+    border-radius: 5px;
+    background: linear-gradient(to top, #c5a663, #746731);
 }
 .but-contact:hover{
     background-color: gray;
@@ -337,12 +344,27 @@
     border-radius: 20px;
 }
 .link{
-    color: black;
+    color: rgb(0, 0, 0);
 
 }
 .link:hover{
     color: #eee7cf;
     text-decoration: none;
+}
+
+.there-icon{
+    font-size: 30px;
+}
+
+.link1{
+    color: #f5c91a;
+
+}
+.link1:hover{
+    text-decoration: none;
+}
+.useful-link{
+    color: #f5c91a;
 }
 @media screen and (max-width: 768px) {
 
@@ -396,6 +418,10 @@
     .text-head {
         margin-left: 2rem;
         margin-top: 3rem;
+        font-size: 25px;
+    }
+    .Attorna-Law-Firm{
+        font-size: 50px;
     }
 
     .images1 {
@@ -419,7 +445,7 @@
         width: 70%;
         align-items: center;
         position: absolute;
-        right: 18%;
+        right: 15%;
         top: 10px;
 
 

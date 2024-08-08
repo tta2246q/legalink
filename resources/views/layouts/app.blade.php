@@ -367,10 +367,10 @@
                             <h4>Useful Links</h4>
                         </div>
                         <div class="row-10">
-                            <a class="link" href="">Practice Areas</a><br>
-                            <a class="link" href="">Privacy & Policy</a><br>
-                            <a class="link" href="">Our Story</a><br>
-                            <a class="link" href="">Be Our Partner </a> <br>
+                            <a class="useful-link" href="">Practice Areas</a><br>
+                            <a class="useful-link" href="">Privacy & Policy</a><br>
+                            <a class="useful-link" href="">Our Story</a><br>
+                            <a class="useful-link" href="">Be Our Partner </a> <br>
                         </div>
                     </div>
                     <div class="col-xl-3 col-12">

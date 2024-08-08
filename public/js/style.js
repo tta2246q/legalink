@@ -1,13 +1,20 @@
 
 
-
-
-
-
 $(document).ready(function () {
+  $("#slider").owlCarousel({
+    items: 1,
+    loop: false,
+    margin: 10,
+    nav: true,
+    dots: false, 
+    autoplay: true, 
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true, 
+    
+  });
   $("#slider1").owlCarousel({
     items: 4,
-    loop: true,
+    loop: false,
     margin: 10,
     nav: true,
     dots: false, 
@@ -38,14 +45,14 @@ $(document).ready(function () {
     autoplay: true,
     autoplayTimeout: 3000,
     autoplayHoverPause: false,
-    items: 1,
+    items: 4,
     stagePadding: 20,
     center: true,
-    nav: false,
+    nav: true,
     navText: ['<i class="fa fa-chevron-left"></i>', '<i class="fa fa-chevron-right"></i>'],
     margin: 50,
     dots: false,
-    loop: true,
+    loop: false,
     responsive: {
       0: { items: 1 },
       575: { items: 2 },
