@@ -60,8 +60,8 @@
                         <div class="top-right pull-right">
                             <!-- Info List -->
                             <ul class="info-list">
-                                <li><a href="mailto:contact@lawa.com"> contact@lawa.com</a></li>
-                                <li><a href="tel:+003-5684-24-24-23">+84</a></li>
+                                <li><a href="mailto:luatlegalink@gmail.com">luatlegalink@gmail.com</a></li>
+                                <li><a href="tel:+84 906 213 683">+84 906 213 683</a></li>
                             </ul>
                         </div>
 
@@ -75,10 +75,8 @@
                     <div class="clearfix">
 
                         <div class="pull-left logo-box">
-                            <div class="logo"><a href="index.html"><img src="/images/logo.png" alt=""
-                                        title=""></a></div>
-                            <div class="logo-two"><a href="index.html"><img src="/images/logo-2.png" alt=""
-                                        title=""></a></div>
+                            <div class="logo"><a href=""><img src="/images/logo.png" alt="" title=""></a></div>
+                            <div class="logo-two"><a href=""><img src="/images/logo-2.png" alt="" title=""></a></div>
                         </div>
 
                         <div class="nav-outer clearfix">
@@ -102,9 +100,9 @@
                                         <li class="current"><a href="index.html">Home</a></li>
                                         <li class="dropdown"><a href="#">Service</a>
                                             <ul>
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="service.html">Service</a></li>
-                                                <li><a href="service-detail.html">Service Detail</a></li>
+                                                <li><a href="">About Us</a></li>
+                                                <li><a href="">Service</a></li>
+                                                <li><a href="">Service Detail</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -112,11 +110,11 @@
                                     <ul class="navigation right-nav clearfix">
                                         <li class="dropdown"><a href="#">News</a>
                                             <ul>
-                                                <li><a href="blog.html">Our Blog</a></li>
-                                                <li><a href="blog-detail.html">Blog Detail</a></li>
+                                                <li><a href="">Our Blog</a></li>
+                                                <li><a href="">Blog Detail</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="">Contact</a></li>
                                     </ul>
 
                                 </div>
@@ -125,9 +123,9 @@
 
                             <!-- Social Box -->
                             <ul class="social-box">
-                                <li><a href="https://twitter.com/"><span class="icofont-twitter"></span></a></li>
-                                <li><a href="https://www.behance.net/"><span class="icofont-behance"></span></a></li>
-                                <li><a href="https://www.instagram.com/"><span class="icofont-instagram"></span></a>
+                                <li><a href=""><span class="icofont-facebook"></span></a></li>
+                                <li><a href=""><span class="icofont-youtube"></span></a></li>
+                                <li><a href=""><span class="icofont-tiktok"></span></a>
                                 </li>
                             </ul>
 
@@ -288,7 +286,8 @@
                                     <br> Tincidunt mollis
                                     pretium. Vivamus sodales eu sapien sitamet iaculis. <br> Curabitur mollis quam
                                     dolor, quis gravida
-                                    orci mattis non. Nam erat erat, <br> tristique a elit at consectetur.</div>
+                                    orci mattis non. Nam erat erat, <br> tristique a elit at consectetur.
+                                </div>
                                 <h6>Thomas Eggsy</h6>
                                 <div class="designation">CEO/Attorney of LAWa</div>
                                 <a href="about.html" class="theme-btn btn-style-one"><span class="txt">view
@@ -493,7 +492,8 @@
                                             <br> at magna akal
                                             semperFusce commodo molestie luctus.Lorem ipsum <br> Dolor tusima olatiup
                                             aculis sed semper sit
-                                            ame</div>
+                                            ame
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -923,7 +923,8 @@
                 </ul>
                 <div class="copyright">
                     <p>&copy; 2021 <b class="text-white">Lawa</b> Made with <i class="fa fa-heart text-danger"></i> by
-                        <a class="text-white" href="https://hasthemes.com/"><b>HasThemes</b></a></p>
+                        <a class="text-white" href="https://hasthemes.com/"><b>HasThemes</b></a>
+                    </p>
                 </div>
             </div>
         </footer>
@@ -951,4 +952,5 @@
     <script src="/js/script.js"></script>
 
 </body>
+
 </html>
