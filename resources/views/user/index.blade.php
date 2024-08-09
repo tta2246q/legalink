@@ -6,7 +6,8 @@
                 <div class="container">
                     <div class="row ">
                         <div class="col-sm-6 col-12 ">
-                            <img class="img-head" src="\assets\wp-content\uploads\sites\6\images\Screenshot 2024-08-08 140344.png"
+                            <img class="img-head"
+                                src="\assets\wp-content\uploads\sites\6\images\Screenshot 2024-08-08 140344.png"
                                 title="">
                         </div>
                         <div class="col-sm-6 col-12 pt-3 pl-4">
@@ -26,7 +27,8 @@
                 <div class="container">
                     <div class="row ">
                         <div class="col-sm-6 col-12 ">
-                            <img class="img-head" src="\assets\wp-content\uploads\sites\6\images\Screenshot 2024-08-08 140344.png"
+                            <img class="img-head"
+                                src="\assets\wp-content\uploads\sites\6\images\Screenshot 2024-08-08 140344.png"
                                 title="">
                         </div>
                         <div class="col-sm-6 col-12 pt-3 pl-4">
@@ -46,7 +48,8 @@
                 <div class="container">
                     <div class="row ">
                         <div class="col-sm-6 col-12 ">
-                            <img class="img-head" src="\assets\wp-content\uploads\sites\6\images\Screenshot 2024-08-08 140344.png"
+                            <img class="img-head"
+                                src="\assets\wp-content\uploads\sites\6\images\Screenshot 2024-08-08 140344.png"
                                 title="">
                         </div>
                         <div class="col-sm-6 col-12 pt-3 pl-4">
@@ -69,7 +72,7 @@
 
 
 
-    
+
 
 
 
@@ -380,9 +383,9 @@
             </div>
         </div>
     </div>
-    <div class="image1 container-fruid mt-5">
+    <div class="image1 container-fruid mt-5 ">
         <img class="img4" src="/assets/wp-content/uploads/sites/6/images/IYED0120.JPG" title="">
-        <img class="img3" src="\assets\wp-content\uploads\sites\6\images\FBPT6853.JPG" title="">
+        <img class=" img3 " src="\assets\wp-content\uploads\sites\6\images\FBPT6853.JPG" title="">
     </div>
 
     <div style="text-align: center">
@@ -551,93 +554,54 @@
         </div>
     </div>
     <div class="col-12 mt-5">
-        <div class="row">
-            <div class="col-6 " style="font-size:16px">
-                <div class="row">
-                    <div class="col-2"></div>
-                    <div class="col-10" style="margin-left: 400px">
-                        <div class="row-3">
-                            <h1>Free Consulattions</h1>
-                        </div>
-                        <div class="row-4">
-                            <p>Law is a complex matter that can lead to significant problems if<br>disregarded. Allow us
-                                to
-                                asssist you!</p>
-                        </div>
-                        <div class="row-5">
-
-                            <p><i class="fa-solid fa-phone" style="color: #000000;"></i> (1)23456789</p>
-                            <p><i class="fa-regular fa-envelope-open" style="color: #000000"></i>
-                                contact@Attornafirm.co</p>
-                            <p><i class="fa-regular fa-clock" style="color: #000000"></i> Mon-Fri 9.00-18.00</p>
-                            <p><i class="fa-solid fa-map-pin" style="color: #000000"></i> 12th Wall Street NY CV564
-                                Unites
-                                States</p>
-                        </div>
-                    </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <h1>Free Consulattions</h1>
+                    <p>Law is a complex matter that can lead to significant problems if <br>
+                        disregarded. Allow us to asssist you!</p>
+                    <p><i class="fa-solid fa-phone fa-lg"></i> (1)23456789</p>
+                    <p><i class="fa-regular fa-envelope-open fa-lg"></i> contact@Attornafirm.co</p>
+                    <p><i class="fa-regular fa-clock fa-lg"></i> Mon-Fri 9.00-18.00</p>
+                    <p><i class="fa-solid fa-map-pin fa-lg"></i> 12th Wall Street NY CV564 Unites States</p>
                 </div>
-            </div>
-
-            <div class="col-6">
-                <div class="col">
-                    <div class="row-2 ">
-                        <div class="col-11">
-                            <div class="row">
-                                <div class="col-4">
-                                    <input class="box-text" type="text" placeholder="First name*">
-                                </div>
-                                <div class="col-5">
-                                    <input class="box-text-num2" type="text" placeholder="Last name*">
-                                </div>
+                <div class="col-6">
+                    <div class="row">
+                        <div class="row ">
+                            <div class="col-6">
+                                <input type="text" placeholder="First name*" class="from-control">
                             </div>
-
-                        </div>
-                    </div>
-                    <div class="row-2 imformation">
-                        <div class="col-11">
-                            <div class="row">
-                                <div class="col-4">
-                                    <input class="box-text" type="text" placeholder="Email*">
-                                </div>
-                                <div class="col-5">
-                                    <input class="box-text-num2" type="text" placeholder="Phone*">
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="row-2">
-                        <div class="row">
-                            <div class="col">
-                                <div class="dropdown free">
-                                    <button class="btn btn-secondary dropdown-toggle free d-flex justify-content-between"
-                                        type="button" id="dropdownMenuButton" data-toggle="dropdown"
-                                        aria-haspopup="true" aria-expanded="false">
-                                        Corporate Law
-                                    </button>
-                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                        <a class="dropdown-item" href="#">Action</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                    </div>
-                                </div>
+                            <div class="col-6">
+                                <input type="text" placeholder="Last name*" class="from-control">
                             </div>
                         </div>
-                    </div>
-                    <div class="row-4 mt-3">
-                        <div class="col">
+                        <div class="row ">
+                            <div class="col-6">
+                                <input type="text" placeholder="Email*" class="from-control">
+                            </div>
+                            <div class="col-6">
+                                <input type="text" placeholder="Fhone*" class="from-control">
+                            </div>
+                        </div>
+                        
+                            <select class="select" name="" id="">
+                                <option value="1">Coporate Law</option>
+                                <option value="1">Criminal Law</option>
+                                <option value="1">Personal Infury</option>
+                            </select>
+                       
+                        
                             <form action="#" method="post">
-                                <textarea placeholder=" Message*" required cols="73" rows="5"></textarea>
+                                <textarea class="textarea" placeholder=" Message*" required></textarea>
                             </form>
-                        </div>
-                    </div>
-                    <div class="row-2">
-                        <div class="col-12">
-                            <button class="submit-now" type="submit">SUBMIT NOM</button>
+                        
+                        <div class="row">
+                            <button class="submit-now">SUMBIT NOW</button>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
     <div class="body-case-studies">
@@ -663,7 +627,7 @@
                         src="\assets\wp-content\uploads\sites\6\images\Ảnh chụp màn hình 2024-08-07 193032.png"
                         alt="">
                     <div class="text-case-studies">
-                        <h5> Family Violence</h5>
+                        <h5>Family Violence</h5>
                         <P>Violence</P>
                     </div>
                 </div>
