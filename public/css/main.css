@@ -58,7 +58,7 @@
  ***/
 
 body {
-	font-family: 'DM Sans', sans-serif;
+	font-family: "Nunito", sans-serif;
 	font-size:14px;
 	color:#777777;
 	line-height:1.7em;
@@ -94,7 +94,7 @@ h1,h2,h3,h4,h5,h6 {
 	margin:0px;
 	background:none;
 	line-height:1.6em;
-	font-family: 'EB Garamond', serif;
+	font-family: "Nunito", serif;
 }
 
 .pull-left{
@@ -200,7 +200,7 @@ img{
 	border-radius:0px;
 	background-color: #294148;
 	text-transform: uppercase;
-	font-family: 'EB Garamond', serif;
+	font-family: "Nunito", serif;
 }
 
 .btn-style-one:before{
@@ -257,7 +257,7 @@ img{
 	border-radius:0px;
 	text-transform:uppercase;
 	border:1px solid #ffffff;
-	font-family: 'EB Garamond', serif;
+	font-family: "Nunito", serif;
 }
 
 .btn-style-two:before{
@@ -315,7 +315,7 @@ img{
 	border-radius:0px;
 	text-transform:uppercase;
 	border:1px solid #294148;
-	font-family: 'EB Garamond', serif;
+	font-family: "Nunito", serif;
 }
 
 .btn-style-three:before{
@@ -481,7 +481,7 @@ img{
 }
 
 .sec-title.light h2{
-	color:#ffffff;
+	color:#222222;
 }
 
 /* List Style One */
@@ -537,7 +537,7 @@ img{
 .main-header .header-top{
 	position:relative;
 	padding:14px 0px;
-	background-color:#d2c5b3;
+	background-color:#222222;
 }
 
 .main-header .header-top .inner-container{
@@ -583,7 +583,7 @@ img{
 
 .main-header .header-top .info-list li a{
 	position: relative;
-	color:#505050;
+	color:#fff;
 	/* text-transform:capitalize; */
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
@@ -599,7 +599,7 @@ img{
 
 .main-header .header-top .top-left .text{
 	position: relative;
-	color:#505050;
+	color:#fff;
 	font-size:14px;
 	font-weight:bold;
 }
@@ -872,12 +872,14 @@ img{
 
 .main-header .main-menu .navigation.left-nav{
 	float:left;
-	text-align:left;
+	text-align:right;
+    margin-right: 123px;
 }
 
 .main-header .main-menu .navigation.right-nav{
 	float:right;
-	text-align:right;
+	text-align:left;
+    margin-left: 123px;
 }
 
 .main-header .header-upper .social-box{
@@ -915,7 +917,7 @@ img{
 .main-menu{
 	position:static;
 	width:100%;
-	max-width:560px;
+	max-width:888px;
 	margin:0 auto;
 	transition: all 500ms ease;
     -moz-transition: all 500ms ease;
@@ -1953,7 +1955,7 @@ img{
 	position:relative;
 	overflow:hidden;
 	padding-top:90px;
-	background-color:#d2c5b3;
+	background-color:#fbf7f0;
 }
 
 .about-section .upper-section{
@@ -2035,6 +2037,10 @@ img{
 	padding-top:80px;
 }
 
+.about-section .lower-section-about{
+	position:relative;
+}
+
 .about-section .lower-section .content-column{
 	position:relative;
 }
@@ -2057,6 +2063,10 @@ img{
 	padding-top:90px;
 }
 
+.about-section .lower-section .content-column .inner-column-about{
+	position:relative;
+}
+
 .about-section .lower-section .content-column .text{
 	position:relative;
 	color:#333333;
@@ -2071,7 +2081,7 @@ img{
 	font-weight:700;
 	letter-spacing:1px;
 	text-transform:uppercase;
-	font-family: 'DM Sans', sans-serif;
+	font-family: "Nunito", sans-serif;
 }
 
 .about-section .lower-section .content-column .designation{
@@ -2194,7 +2204,7 @@ img{
 	font-weight:700;
 	line-height:1.4em;
 	margin-top:30px;
-	font-family: 'DM Sans', sans-serif;
+	font-family: "Nunito", sans-serif;
 }
 
 .service-block .inner-box h5 a{
@@ -2438,7 +2448,7 @@ img{
 	position:relative;
 	overflow:hidden;
 	padding:100px 0px 90px;
-	background-color:#243033;
+	background-color:#d2c5b3;
 }
 
 .team-section .team-carousel{
@@ -2453,7 +2463,7 @@ img{
 	z-index:2;
 	height:100%;
 	width:200%;
-	background-color:#243033;
+	background-color:#d2c5b3;
 }
 
 .team-section .team-carousel:after{
@@ -2464,7 +2474,7 @@ img{
 	z-index:2;
 	height:100%;
 	width:200%;
-	background-color:#243033;
+	background-color:#d2c5b3;
 }
 
 .team-section .team-carousel .swiper-wrapper{
@@ -2525,7 +2535,7 @@ img{
 	right:0px;
 	bottom:0px;
 	padding:25px 25px 25px 25px;
-	background-color:#243033;
+	background-color:#d2c5b3;
 	transition: all 900ms ease;
     -moz-transition: all 900ms ease;
     -webkit-transition: all 900ms ease;
@@ -2774,7 +2784,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	transition:all 500ms ease;
-	font-family: 'EB Garamond', serif;
+	font-family: "Nunito", serif;
 }
 
 .accordion-box .block .acc-btn.active{
@@ -2983,7 +2993,7 @@ img{
 	margin-top:15px;
 	line-height:1em;
 	text-transform:uppercase;
-	font-family: 'EB Garamond', serif;
+	font-family: "Nunito", serif;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
@@ -3011,7 +3021,7 @@ img{
 	position:relative;
 	text-align:center;
 	padding-bottom:70px;
-	background-color:#243033;
+	background-color:#222222;
 }
 
 .main-footer .logo-box{
@@ -3115,7 +3125,7 @@ img{
 
 .main-footer .copyright{
 	position:relative;
-	color:#999999;
+	color:#fff;
 	font-size:14px;
 	line-height:1.9em;
 	margin-top:60px;
@@ -3267,7 +3277,7 @@ img{
 	font-weight:400;
 	line-height:1em;
 	margin-top:22px;
-	font-family: 'EB Garamond', serif;
+	font-family: "Nunito", serif;
 }
 
 .price-block .inner-box .price sup{
@@ -3438,7 +3448,7 @@ img{
 	padding:30px 30px 34px 45px;
 	border-left:3px solid #d2c5b3;
 	background-color:#f1efeb;
-	font-family: 'EB Garamond', serif;
+	font-family: "Nunito", serif;
 }
 
 .service-detail .inner-box .two-column{
@@ -4370,7 +4380,7 @@ img{
 	font-weight:700;
 	line-height:1.3em;
 	margin-bottom:25px;
-	font-family: 'DM Sans', sans-serif;
+	font-family: "Nunito", sans-serif;
 }
 
 .blog-detail .inner-box blockquote{
@@ -4385,7 +4395,7 @@ img{
 	font-weight:400;
 	font-size:30px;
 	line-height:1.3em;
-	font-family: 'EB Garamond', serif;
+	font-family: "Nunito", serif;
 }
 
 .blog-detail .inner-box  blockquote .blockquote-text .quote{
@@ -4639,7 +4649,7 @@ img{
 
 .contact-info-section h3{
 	position:relative;
-	color:#243033;
+	color:#d2c5b3;
 	font-size:48px;
 	line-height:1.1em;
 	text-align:center;
@@ -4676,11 +4686,11 @@ img{
 
 .contact-info-section .info-column .upper-box h6{
 	position:relative;
-	color:#243033;
+	color:#d2c5b3;
 	font-size:18px;
 	font-weight:700;
 	text-transform:uppercase;
-	font-family: 'DM Sans', sans-serif;
+	font-family: "Nunito", sans-serif;
 }
 
 .contact-info-section .info-column .upper-box .icon{

@@ -1,0 +1,12 @@
+@extends('index')
+@section('name')
+    @include('pages.home.section_banner')
+    @include('pages.home.section_about')
+    @include('pages.home.section_service')
+    @include('pages.home.section_feedback')
+    @include('pages.home.section_client')
+    @include('pages.home.section_team')
+    @include('pages.home.section_news_faq')
+    @include('pages.home.section_contact')
+    @include('pages.home.section_cta')
+@endsection
