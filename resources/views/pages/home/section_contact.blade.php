@@ -12,7 +12,7 @@
                 <!-- Consulation Form -->
                 <form method="post" action="sendemail.php" id="contact-form">
                     <div class="row clearfix">
-                        <div class="col-lg-4 col-md-6 col-sm-12 form-group">
+                        <div class="col-lg-3 col-md-6 col-sm-12 form-group">
                             <select name="country" class="custom-select-box">
                                 <option>Chọn danh mục</option>
                                 <option>Câu hỏi</option>
@@ -21,12 +21,16 @@
                             </select>
                         </div>
 
-                        <div class="col-lg-4 col-md-6 col-sm-12 form-group">
+                        <div class="col-lg-3 col-md-6 col-sm-12 form-group">
                             <input type="text" name="name" placeholder="Họ tên" required>
                         </div>
 
-                        <div class="col-lg-4 col-md-12 col-sm-12 form-group">
+                        <div class="col-lg-3 col-md-12 col-sm-12 form-group">
                             <input type="email" name="email" placeholder="Địa chỉ email" required>
+                        </div>
+
+                        <div class="col-lg-3 col-md-12 col-sm-12 form-group">
+                            <input type="text" name="phone" placeholder="Số điện thoại" required>
                         </div>
 
                         <div class="col-lg-12 col-md-12 col-sm-12 form-group">

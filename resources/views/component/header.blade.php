@@ -56,10 +56,10 @@
                                 <li class="dropdown"><a href="">Thông Tin</a>
                                     <ul>
                                         <li><a href="{{route('about')}}">Về Chúng Tôi</a></li>
-                                        <li><a href="">Nhân Sự</a></li>
+                                        <li><a href="{{route('team')}}">Nhân Sự</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a href="#">Dịch Vụ</a>
+                                <li class="dropdown"><a href="{{route('service')}}">Dịch Vụ</a>
                                     <ul>
                                         <li class="dropdown"><a href="">Luật Doanh Ngiệp</a>
                                             <ul>

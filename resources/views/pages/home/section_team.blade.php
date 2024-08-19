@@ -16,8 +16,7 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image">
-                                <a href=""><img src="/images/resource/team-1.jpg"
-                                        alt="" /></a>
+                                <a href=""><img src="/images/resource/team-1.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
                                 <h3><a href="">Hà Quốc Phong</a></h3>
@@ -30,7 +29,6 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
 
                 <div class="swiper-slide">
